@@ -28,3 +28,7 @@ p {
   font-size: 11px;
   text-align: left;
 }
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
